@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project, part of the EN2111 Electronic Circuit Design module at the University of Moratuwa, focuses on designing a linear power supply with a maximum current limit of 100 mA, incorporating over-current protection. The power supply delivers a stable output voltage adjustable from 8V to 14V, robust against fluctuating input voltages (16V to 20V) and varying load conditions. This repository contains the project files, including schematics, PCB designs, calculations, and documentation, developed by Group 19 under the supervision of Dr. Thusapparan Subramaniam.
+This project, part of the EN2111 Electronic Circuit Design module at the University of Moratuwa, focuses on designing a linear power supply with a maximum current limit of 100 mA, incorporating over-current protection. The power supply delivers a stable output voltage adjustable from 8V to 14V, robust against fluctuating input voltages (16V to 20V) and varying load conditions. This repository contains the project files, including schematics, PCB designs, calculations, and documentation, developed by Group 19 under the supervision of Dr. Thayaparan Subramaniam.
 
 ## Introduction
 
@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- **Supervisors**: Dr. Thusapparan Subramaniam.
+- **Supervisors**: Dr. Thayaparan Subramaniam.
 - **Institution**: Department of Electronic & Telecommunication Engineering, University of Moratuwa.
 - **Tools**: EasyEDA for PCB design, breadboard for prototyping.
 
